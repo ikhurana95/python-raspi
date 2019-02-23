@@ -8,7 +8,7 @@ sudo ipython3 kernelspec install-self
 sudo apt-get install sense-hat
 
 # Install senseGraphics
-pip install senseGraphics
+pip install --user senseGraphics/
 
 # Install Pan Tilt
 
