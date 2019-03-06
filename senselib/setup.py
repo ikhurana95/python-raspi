@@ -7,5 +7,5 @@ setup(name='senselib',
       author_email='ishan.khurana.15@ucl.ac.uk',
       license='MIT',
       packages=['senselib'],
-      install_requires=['numpy', 'senseGraphics'],
+      install_requires=['numpy', 'senseGraphics', 'time'],
       )
