@@ -10,6 +10,9 @@ sudo apt-get install sense-hat
 # Install senseGraphics
 pip install --user senseGraphics/
 
+# Install senselib
+pip install --user senselib/
+
 # Install Pan Tilt
 
 curl https://get.pimoroni.com/pantilthat | bash
