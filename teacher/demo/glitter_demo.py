@@ -8,7 +8,6 @@ import time
 # (1.2) Initialisation
 
 sense = SenseHat() # This will be used to control the the SenseHat.
-initialise(sense) # Initialises the senselib library, that provides us with some useful functions
 sense.set_imu_config(True, True, True)
 sense.clear() # Clears all pixels on the screen.
 
