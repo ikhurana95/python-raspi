@@ -10,8 +10,9 @@ The only way to learn is by doing! 1.5 hours a week is Not A Long Time to learn 
 
 2) [Exercises 2](https://colab.research.google.com/drive/1tkffouxa_kG3H2v80tEUWGNd2hm03LRR)
 
-- [Mini Project 1 - Storyteller](https://colab.research.google.com/drive/1qjSi2-lcEbKYmsUCUMQBvcHWePgxrwSF)
+After you have mastered the above, try:
 
+- [Mini Project 1 - Storyteller](https://colab.research.google.com/drive/1qjSi2-lcEbKYmsUCUMQBvcHWePgxrwSF)
 - [Mini Project 2 - Interest Calculator](https://colab.research.google.com/drive/1SlEELT5xSyQZN9iyt8P8-ukwpBjREFdk)
 
 If something doesn't make sense or you get stuck, try googling to see if you can find answers. (For example if you get a error message, try googling the error message. Chances are you are not the first person to have this problem, and the answer is probably somewhere online).  If that doesn't work and you are still stuck, send us an email or message on Insta.
