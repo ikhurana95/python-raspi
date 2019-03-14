@@ -48,8 +48,11 @@ Videos are a great way to learn. There are loads! [Click here](https://www.youtu
 ### Interactive
 
 If you want something more interactive
+
 1) [Interactive, free course (w3schools)](https://www.w3schools.com/python/default.asp). A great reference to save and come back to.
+
 1) [Free Python 2 Course (Codecademy)](https://www.codecademy.com/learn/learn-python). Everything runs in the browser, there is automatic marking too, so you know if you are doing things right! (Python 2 is a little old now though :( )
+
 2) [An introduction to Python in Colab](https://colab.research.google.com/github/ondrolexa/r-python/blob/master/01-Introduction-to-Python.ipynb) (Not written by us).
 
 
