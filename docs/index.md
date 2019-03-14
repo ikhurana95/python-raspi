@@ -33,7 +33,7 @@ The exercises are [Colab Notebooks](https://colab.research.google.com/). These w
 
 3) The first time you run something, you will get a warning. Just untick the box and press run, and you will be good to go!
 
-![step 1](https://i.imgur.com/R1sfJad.png)
+![step 1](https://i.imgur.com/48rvmot.png)
 
 
 
