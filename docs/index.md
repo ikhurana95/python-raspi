@@ -62,5 +62,5 @@ If you want something more interactive
 The ultimate guide is Google. Let's say I don't understand for loops. [Googling something relevant](http://lmgtfy.com/?q=how+do+for+loops+work+in+python) will take me to a bunch of places I can find out more. Good site to look out for in the search results are:
 - [StackOverflow](https://stackoverflow.com/)
 - [Offical Python Documentation](https://docs.python.org/3/)
-- (https://wiki.python.org/moin/ForLoop)
+- [](https://wiki.python.org/)
 
