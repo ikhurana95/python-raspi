@@ -58,7 +58,7 @@ Here are some more resource to get you started learning independently.
 
 ### App 
 
-There is a great app called SoloLearn, which is free to use. There is a python tutotrial which you can go through, the app will quiz you at every stage. There are other programming languages and a machine learning tutorial that you might find interesting. 
+There is a great app called [SoloLearn](https://www.sololearn.com/), which is free to use. There is a python tutotrial which you can go through, the app will quiz you at every stage. There are other programming languages and a machine learning tutorial that you might find interesting. 
 
 ### Videos
 
