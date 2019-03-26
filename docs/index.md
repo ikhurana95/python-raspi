@@ -2,6 +2,19 @@
 
 This is the place where you can find more info about how to code in Python. Follow [our instagram](https://www.instagram.com/hackingeducation/) at @hackingEducation for regular updates or to get in touch if you have any questions.
 
+---
+
+## Slides 
+
+In case you miss a session here are the slides we have used from each week. They are breif but should give you an idea of what we learnt! 
+
+- [Week 1](https://docs.google.com/presentation/d/1kzQyTqcM9TaQrEvFCgjxaZ2PsrNvHE53HjLpSqJ26D0/edit?usp=sharing)
+- [Week 2](https://docs.google.com/presentation/d/1VYd2Ha07SDu10oSwsRey8_C4muYLWsSWd2Ou7cehz50/edit?usp=sharing)
+- [Week 3](https://docs.google.com/presentation/d/1zgKjPH1ebDKovIGiKce-QTBVKiipIoGuhm75EUjtyr8/edit?usp=sharing)
+- [Week 4](https://docs.google.com/presentation/d/1YpqztjFdGb-smRB2LApbggNJTzNzefcV4BXOsl3ByTQ/edit?usp=sharing)
+
+---
+
 ## Take Home Exercises
 
 The only way to learn is by doing! 1.5 hours a week is Not A Long Time to learn any new skill. It would be awesome if you had a look through some of these exercises and links. The more confident you are the more exciting sessions we can run (think AI, hacking).
@@ -16,6 +29,8 @@ After you have mastered the above, try:
 - [Mini Project 2 - Interest Calculator](https://colab.research.google.com/drive/1SlEELT5xSyQZN9iyt8P8-ukwpBjREFdk)
 
 If something doesn't make sense or you get stuck, try googling to see if you can find answers. (For example if you get a error message, try googling the error message. Chances are you are not the first person to have this problem, and the answer is probably somewhere online).  If that doesn't work and you are still stuck, send us an email or message on Insta.
+
+---
 
 ### How to Run These Exercises
 
@@ -35,11 +50,15 @@ The exercises are [Colab Notebooks](https://colab.research.google.com/). These w
 
 ![step 1](https://i.imgur.com/48rvmot.png)
 
-
+---
 
 ## Learning to Learn
 
 Here are some more resource to get you started learning independently.
+
+### App 
+
+There is a great app called SoloLearn, which is free to use. There is a python tutotrial which you can go through, the app will quiz you at every stage. There are other programming languages and a machine learning tutorial that you might find interesting. 
 
 ### Videos
 
