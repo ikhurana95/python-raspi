@@ -30,8 +30,6 @@ After you have mastered the above, try:
 
 If something doesn't make sense or you get stuck, try googling to see if you can find answers. (For example if you get a error message, try googling the error message. Chances are you are not the first person to have this problem, and the answer is probably somewhere online).  If that doesn't work and you are still stuck, send us an email or message on Insta.
 
----
-
 ### How to Run These Exercises
 
 The exercises are [Colab Notebooks](https://colab.research.google.com/). These work just like the Jupyer notebooks we have running on the Rasberry Pi's in the workshops, except instead of running on the Pi, they run on a computer somewhere in Google's cloud, and interact with it over the internet!
