@@ -6,7 +6,7 @@ This is the place where you can find more info about how to code in Python. Foll
 
 ## Slides 
 
-In case you miss a session here are the slides we have used from each week. They are breif but should give you an idea of what we learnt! 
+In case you miss a session here are the slides we have used from each week. They are brief but should give you an idea of what we learnt! 
 
 - [Week 1](https://docs.google.com/presentation/d/1kzQyTqcM9TaQrEvFCgjxaZ2PsrNvHE53HjLpSqJ26D0/edit?usp=sharing)
 - [Week 2](https://docs.google.com/presentation/d/1VYd2Ha07SDu10oSwsRey8_C4muYLWsSWd2Ou7cehz50/edit?usp=sharing)
